@@ -10,7 +10,7 @@ const Testimonial = () => {
 
     const [review, setReview] = useState([])
     useEffect( () => {
-        fetch('http://localhost:5000/addReview')
+        fetch('https://secure-scrubland-24094.herokuapp.com/addReview')
         .then(res => res.json())
         .then(data => setReview(data))
     }, [])
