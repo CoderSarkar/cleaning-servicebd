@@ -1,0 +1,32 @@
+.rightSide{
+    padding: 18px;
+    border-radius: 6px;
+    box-shadow: 1px 1px 9px 1px #008080;
+    width: 74%;
+    margin: 0 auto;
+    background-image: linear-gradient(to right,#b71540,#c82323);
+    color: #fff;
+}
+.rightSide p{
+    color: #096969;
+    font-size: 22px;
+    margin-bottom: 3px;
+    margin-top: 10px;
+    font-weight: 500;
+}
+.rightSide input{
+    width: 88%;
+    padding: 8px 0px;
+    /* border: 1px solid #008080; */
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.addButton{
+    background-color: teal;
+    color: #fff;
+    font-weight: 500;
+    padding: 10px 10px;
+}
+.addButton:hover{
+    background-color: rgb(4, 46, 46);
+}

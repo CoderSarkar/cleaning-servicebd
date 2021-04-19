@@ -1,0 +1,48 @@
+.viewItem{
+
+}
+
+.viewItem table tr{ }
+.viewItem table tr td{
+    padding: 4px 6px;
+    border: 1px solid crimson;
+ }
+ .tableText{
+     font-weight: 700;
+ }
+.tablePtext{
+    color: #0c0c0c;
+    font-weight: 500;
+    font-size: 16px;
+}
+.done{
+    background-color: green;
+    color: #fff;
+    border: 0px;
+    margin: 6px 3px;
+    width: 73px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+.onGoing{
+    background-color: #0089ff;
+    color: #fff;
+    border: 0px;
+    margin: 6px 3px;
+    width: 73px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+.pending{
+    background-color: red;
+    color: #fff;
+    border: 0px;
+    margin: 6px 3px;
+    width: 73px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+.status{
+    color: crimson;
+    font-weight: 700;
+}
