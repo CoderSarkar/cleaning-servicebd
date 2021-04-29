@@ -27,7 +27,7 @@ const Footer = () => {
                        <p>cleaningbd@gmail.com</p>
                        <p>cleaningbd.com</p>
                    </div>
-                   <p className="text-center">Copyright © 2021 safawat All Rights Reserved</p>
+                   <p className="text-center">Copyright © 2021 abdul All Rights Reserved</p>
                </div>
               
            </div>
